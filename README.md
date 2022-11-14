@@ -1,2 +1,2 @@
 # projekt-start
-nauka githuba
+hurra
